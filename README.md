@@ -1,5 +1,14 @@
 # DSCI-532_Linyang-Alex
 
+
+## Milestone 4 submission
+
+Write up file for milestone 4: [WriteUp](docs/Milestone_4_Write-Up.md)
+
+Updated Shiny app link: [MHealth-Visualization](https://linyang-yu.shinyapps.io/MHealth-Visualization/)
+
+
+
 ## Milestone 3 submission
 
 Added code of Conduct: [Conduct](CONDUCT.md)
